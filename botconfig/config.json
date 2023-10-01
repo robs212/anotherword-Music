@@ -1,11 +1,11 @@
 {
    "token": "Bot Token",
-   "prefix": "?",
+   "prefix": "n!",
    "ownerIDS": [
-      "442355791412854784"
+      "436900177656152075"
    ],
    "status": {
-      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
+      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: https://discord.gg/anotherworldserver",
       "text2": "By: milrato.dev",
       "type": "PLAYING",
       "url": "https://twitch.tv/#"
